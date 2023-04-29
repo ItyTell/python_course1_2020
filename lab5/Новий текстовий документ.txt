@@ -1,0 +1,1 @@
+python "C:/Users/nickk/OneDrive/Робочий стіл/lab 5 reforged/lab 5 ver 79.py" "C:/Users/nickk/OneDrive/Робочий стіл/lab 5 reforged/task.ini"
